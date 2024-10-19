@@ -1,0 +1,7 @@
+venv/
+# Add large files to .gitignore
+demo_map.html
+Data/preprocessed_data/128.csv
+Data/preprocessed_data/153.csv
+Data/153/153.csv
+Data/128/128.csv
